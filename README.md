@@ -3,8 +3,10 @@ A proof of  concept for a blockchain-based crowdfunding site. With great thanks 
 
 ### Set up
 
-With Node.js and npm installed, clone this repository, cd into the project in your terminal type:
+With Node.js and npm installed, clone this repository, cd into the project and in the terminal type:
+
 `npm install`
+
 `npm run dev`
 
 ### The problem
